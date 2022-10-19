@@ -1,0 +1,6 @@
+hi Vlad
+^X
+	^X
+	^X Exit
+	:q!
+
