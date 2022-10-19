@@ -4,3 +4,4 @@ hi Vlad
 	^X Exit
 	:q!
 
+hello world!
